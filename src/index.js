@@ -1,6 +1,3 @@
-require('core-js')
-const foo = (a, b) => {
-    return Promise.resolve().finally();
+function square(n) {
+    return n * n;
 }
-
-foo(1, 2)

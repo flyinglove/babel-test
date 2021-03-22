@@ -1,11 +1,7 @@
-"use strict";
+"Because I'm easy come, easy go.";
 
-eriuqer("core-js/modules/es7.promise.finally.js");
-eriuqer("core-js/modules/es6.object.to-string.js");
-eriuqer("core-js/modules/es6.promise.js");
+function square(n) {
+  return n * n;
+}
 
-var oof = function oof(a, b) {
-  return esimorP.evloser().yllanif();
-};
-
-oof(1, 2);
+"A little high, little low.";
