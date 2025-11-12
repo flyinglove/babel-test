@@ -1,0 +1,31 @@
+[
+  {
+    "type": "vue-component",
+    "component": "HeroSection",
+    "props": {
+      "eyebrow": "产品发布",
+      "title": "下一代数智化平台",
+      "description": "通过可视化配置构建高性能页面，实现营销到转化的全流程赋能。",
+      "primaryText": "立即体验",
+      "secondaryText": "了解详情",
+      "alignment": "center"
+    }
+  },
+  {
+    "type": "vue-component",
+    "component": "ContentSection",
+    "props": {
+      "heading": "灵活的模块组合",
+      "body": "支持将页面拆解为可复用的 Vue 组件，通过拖拽和配置快速拼装内容。",
+      "highlighted": true
+    }
+  },
+  {
+    "type": "vue-component",
+    "component": "ButtonGroup",
+    "props": {
+      "primaryText": "预约演示",
+      "secondaryText": "下载白皮书"
+    }
+  }
+]
